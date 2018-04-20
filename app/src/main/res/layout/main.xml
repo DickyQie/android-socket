@@ -11,7 +11,7 @@
         android:id="@+id/button1" />
 
     <Button
-        android:text="Sokect测试"
+        android:text="Sokect服务器发送消息给客服端"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button2" />
@@ -24,7 +24,7 @@
         android:id="@+id/button3" />
 
     <Button
-        android:text="Sokect相互发送信息"
+        android:text="Sokect"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button4" />

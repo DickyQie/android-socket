@@ -9,7 +9,6 @@ import android.view.View;
 import com.zhangqie.sokect.demo1.Demo1Activity;
 import com.zhangqie.sokect.demo2.Demo2Activity;
 import com.zhangqie.sokect.demo3.Demo3Activity;
-import com.zhangqie.sokect.demo4.Demo4Activity;
 
 
 /***
@@ -50,7 +49,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(MainActivity.this, Demo3Activity.class));
                 break;
             case R.id.button4:
-                startActivity(new Intent(MainActivity.this, Demo4Activity.class));
                 break;
         }
     }
